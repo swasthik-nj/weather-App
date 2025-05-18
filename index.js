@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
       <img src="https://unpkg.com/feather-icons@4.29.2/dist/icons/cloud.svg"
            alt="Cloud icon"
            width="30" height="40"
-           style="margin-right: 14px; filter: invert(1); margin-top:10px" />
+           style="filter: invert(1); " />
       Welcome to Weather App
     `;
     
